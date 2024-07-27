@@ -1,5 +1,8 @@
 ## Hi there 👋
-Aspiring SWE with a goal to learn and improve on my ML/AI skillsets!
+🌱 Aspiring SWE with a goal to learn and improve on my ML/AI skillsets!
+🔭 Portfolio: https://tofu11.github.io/ziang.chen/
+📫 Linkedin: https://www.linkedin.com/in/ziangc/
+
 <!--
 **tofu11/tofu11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
