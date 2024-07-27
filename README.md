@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Aspiring SWE with a goal to learn and improve on my ML/AI skillsets!
 <!--
 **tofu11/tofu11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
