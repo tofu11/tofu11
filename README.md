@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello
 🌱 Aspiring SWE with a goal to learn and improve on my ML/AI skillsets!
 
 🔭 Portfolio: https://tofu11.github.io/ziang.chen/
