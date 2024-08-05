@@ -4,7 +4,6 @@ Hey there! I'm Ziang Chen, an aspiring software engineer currently studying at t
 
 🌱 Aspiring SWE with a goal to learn and improve on my ML/AI skillsets!<br><br>
 
-
 🔭 Portfolio: https://tofu11.github.io/ziang.chen/
 
 📫 Linkedin: https://www.linkedin.com/in/ziangc/
