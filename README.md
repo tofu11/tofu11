@@ -9,10 +9,6 @@ Hey there! I'm Ziang Chen, an aspiring software engineer currently studying at t
 📫 Linkedin: https://www.linkedin.com/in/ziangc/
 
 # 📊 GitHub Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tofu11&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tofu11&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- HTML -->
